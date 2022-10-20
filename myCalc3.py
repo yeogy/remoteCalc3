@@ -1,5 +1,5 @@
 from add import add_func
-from sub import mul_func
+from sub import sub_func
 ##함수 선언부
 
 ##전역 변수부
